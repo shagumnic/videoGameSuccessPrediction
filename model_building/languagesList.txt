@@ -1,0 +1,29 @@
+Arabic
+Bulgarian
+Simplified Chinese
+Traditional Chinese
+Czech
+Danish
+Dutch
+English
+Finnish
+French
+German
+Greek
+Hungarian
+Italian
+Japanese
+Korean
+Norwegian
+Polish
+Portuguese
+Portuguese - Brazil
+Romanian
+Russian
+Spanish - Spain
+Spanish - Latin America
+Swedish
+Thai
+Turkish
+Ukrainian
+Vietnamese
