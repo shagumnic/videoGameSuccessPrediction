@@ -10,6 +10,10 @@ A video game success prediction application (predict number of players after a m
 	+ languagesList.txt: complete list of languages a game could supported.
 - predicting_gui: pyinstaller has convert the predicting.py file to an executable file. Because of the compatibility between pyinstaller and tensorflow, the whole folder couldn't be contain in a single .exe file. Therefore, it could only be convert into a folder. User just need to run the .exe file.
 
+# How to use:
+- navigate to predicting_gui folder and run the predicting.exe file
+- if users want to customize and create their own model, install the required packages in the requirements.txt file and use the build_prediction_model_new.py to create their own model saved in my_model folder. Afterwards, drag the folder to the predicting_gui folder and run the predicting.exe file again.
+
 # Tool use:
 - Python
 - tkinter to create GUI for the application
